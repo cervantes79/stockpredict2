@@ -1,0 +1,1 @@
+{"lstm_1_units": 448, "dropout_1": 0.2129492422281417, "lstm_2_units": 160, "dropout_2": 0.24743883950534495, "lstm_3_units": 64, "dropout_3": 0.35149340031463905, "lstm_4_units": 64, "dropout_4": 0.166567078750535, "lstm_5_units": 32, "dropout_5": 0.2916461042324022, "learning_rate": 0.0006154957788136967}
